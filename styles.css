@@ -118,15 +118,15 @@ footer{
     justify-content: center;
 }
 .footer-content{
-    width: 33.3%;
+    width: 35.3%;
 }
 h3{
     font-size: 28px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     text-align: center;
 }
 .footer-content p{
-    width:190px;
+    width:220px;
     margin: auto;
     padding: 7px;
 }
